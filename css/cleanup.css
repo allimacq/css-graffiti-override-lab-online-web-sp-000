@@ -1,8 +1,8 @@
 /* write your override styles here */
-#wall > * {
+#wall > div {
   display: none;
 }
 
-div#wall .slick {
+#wall .slick {
   background: none;
 }
