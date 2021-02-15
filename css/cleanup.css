@@ -1,5 +1,5 @@
 /* write your override styles here */
-#wall .slick.wicked {
+#wall .slick wicked {
   display: none;
 }
 
