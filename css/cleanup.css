@@ -1,6 +1,6 @@
 /* write your override styles here */
 #wall .slick {
-  background: none;
+  background-image: none;
 }
 
 #wall > div {
